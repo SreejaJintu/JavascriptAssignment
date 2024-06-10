@@ -28,12 +28,12 @@ if(age>=18)
             {
                 console.log('Number is +ve') 
             }
-            if(digit<0)
+           else if(digit<0)
                 {
                     console.log('Number is -ve') 
                 }
                 
-                if(digit=0)
+              else if(digit=0)
                     {
                         console.log('Number is zero') 
                     }    
